@@ -1,10 +1,10 @@
 # 🪐 about me:
 
-🔬 biomedical engineering student @ Georgia Tech  
+🔬 biomedical engineering @ georgia tech  
 🧠 building at the intersection of healthcare, AI, and medical devices  
 🧬 interested in cancer diagnostics, clinical research, and human-centered innovation  
 🏥 exploring how technology can make care safer, clearer, and more connected  
-💬 reach me at **ajay37@gatech.edu**  
+💬 reach me at **ajay37@gatech.edu** or **ashwithjay2005@gmail.com**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwith%20Jay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwithjay)
 
