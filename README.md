@@ -52,12 +52,10 @@
 ## ✨ a little more about me
 
 ⚡ previously worked on r&d @ j&j medtech  
-🧠 undergraduate research in ai + computational medicine @ bio-mib lab  
-🫀 undergraduate research in computational hemodynamics + preeclampsia detection @ gleason lab  
-🦿 biomechanics research in neuromuscular activation + acl injury risk  
+🧠 undergraduate research in ai + computational medicine
+🫀 undergraduate research in computational hemodynamics + preeclampsia detection
 🩺 co-founder & cto @ cuffway  
 💻 co-founder & vice president @ prisma sync technology  
-🤖 device engineering lead @ synapsex, developing brain-computer interface technology  
 📜 emt-b
 
 
