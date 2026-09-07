@@ -52,7 +52,8 @@
 ## ✨ a little more about me
 
 ⚡ previously worked on r&d @ j&j medtech  
-🧠 undergraduate research in ai + computational medicine & computational hemodynamics + preeclampsia detection
+🧠 research in ai + computational medicine  
+🫀 research in computational hemodynamics + preeclampsia detection   
 🩺 co-founder & cto @ cuffway  
 💻 co-founder & vice president @ prisma sync technology  
 📜 emt-b
