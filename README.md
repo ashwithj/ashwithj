@@ -1,12 +1,13 @@
 # 🪐 about me:
 
 🔬 biomedical engineering @ georgia tech  
-🧠 building at the intersection of healthcare, AI, and medical devices  
+🧠 building at the intersection of healthcare, ai, and medical devices  
 🧬 interested in cancer diagnostics, clinical research, and human-centered innovation  
 🏥 exploring how technology can make care safer, clearer, and more connected  
 💬 reach me at **ajay37@gatech.edu** or **ashwithjay2005@gmail.com**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwith%20Jay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwithjay)
+
 
 ## 💻 software & digital tools:
 
@@ -26,6 +27,7 @@
 ![ImageJ](https://img.shields.io/badge/ImageJ-1B75BB?style=for-the-badge)
 ![Minitab](https://img.shields.io/badge/Minitab-0066B3?style=for-the-badge)
 
+
 ### 🌐 web development & product design
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,11 +39,27 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 a few things I’ve built:
+
+## 🚀 a few things i’ve built:
 
 - [**BridgePoint Health Initiative**](https://github.com/ashwithj/BridgePoint-Health-Initiative) — AI-enabled NICU family-pod concept with bedside monitoring and parent-support tools.
+
 - [**SafeSnap**](https://github.com/ashwithj/SafeSnap) — Arduino-based medication-access safety prototype.
+
 - [**Multimodal Causal Decision Support**](https://github.com/ashwithj/Multimodal-Causal-Decision-Support-Counterfactual-Triage-and-Treatment-Policies-Under-Constraints-) — clinical AI framework for counterfactual triage and treatment-policy evaluation.
+
+
+## ✨ a little more about me
+
+⚡ previously worked on r&d @ j&j medtech  
+🧠 undergraduate research in ai + computational medicine @ bio-mib lab  
+🫀 undergraduate research in computational hemodynamics + preeclampsia detection @ gleason lab  
+🦿 biomechanics research in neuromuscular activation + acl injury risk  
+🩺 co-founder & cto @ cuffway  
+💻 co-founder & vice president @ prisma sync technology  
+🤖 device engineering lead @ synapsex, developing brain-computer interface technology  
+📜 emt-b
+
 
 <p align="center">
   <i>building technology that helps healthcare feel more human.</i>
