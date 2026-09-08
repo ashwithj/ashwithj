@@ -42,11 +42,11 @@
 
 ## 🚀 a few things i’ve built:
 
-- [**BridgePoint Health Initiative**](https://github.com/ashwithj/BridgePoint-Health-Initiative) — AI-enabled NICU family-pod concept with bedside monitoring and parent-support tools.
+- [**BridgePoint Health Initiative**](https://github.com/ashwithj/BridgePoint-Health-Initiative) — ai-enabled nicu family-pod concept with bedside monitoring and parent-support tools.
 
-- [**SafeSnap**](https://github.com/ashwithj/SafeSnap) — Arduino-based medication-access safety prototype.
+- [**SafeSnap**](https://github.com/ashwithj/SafeSnap) — arduino-based medication-access safety prototype.
 
-- [**Multimodal Causal Decision Support**](https://github.com/ashwithj/Multimodal-Causal-Decision-Support-Counterfactual-Triage-and-Treatment-Policies-Under-Constraints-) — clinical AI framework for counterfactual triage and treatment-policy evaluation.
+- [**Multimodal Causal Decision Support**](https://github.com/ashwithj/Multimodal-Causal-Decision-Support-Counterfactual-Triage-and-Treatment-Policies-Under-Constraints-) — clinical ai framework for counterfactual triage and treatment-policy evaluation.
 
 
 ## ✨ a little more about me
